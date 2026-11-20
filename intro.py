@@ -1,1 +1,0 @@
-print("Name:" "wuwu\n" "Age:" "18\n")
